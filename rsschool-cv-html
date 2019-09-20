@@ -1,1 +1,45 @@
-
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>My CV</title>
+  </head>
+  <body>
+  <div>
+  <img src="https://ridero.store/images/w450?bucket=store-user-data.ridero.store&key=ridero/images/593527e00596e00600376ead/2018-04-26T14:53:05.247Z-xkb.jpg&format=original" alt="Aliaksandra" width="120" height="150">
+</div>
+      <h1>rsschool-cv</h1>
+      <h2>1.Aliaksandra Tukyanava</h2>
+      <h3>2. Contact Info:</h3>
+        <ul>
+        <li>phone number +37529-6444-267</li>
+        <li>email: faithfaith66@gmail.com</li>
+        </ul>
+      <h3>3. Summary:</h3>
+        <p>My goal is to be a good Junior Developer in Epam. I like computers, internet, IT and modernsites. Now I work in Technical Support (not in the Epam), but it's really interesting for me to know more. It was really interesting for me to create some simple sites with the help of HTML and CSS basic course in the Code Academy. I hope that I can create more beautiful sites in future with the help of RSS.</p>
+      <h3>4. Skills:</h3>
+        <p>HTML & CSS basic courses: <a href="https://www.codecademy.com/profiles/faithfaith667603945486">My profile</a></p>
+      <h3>5.Code examples (LATEST):</h3>
+        <ul>
+          <li>HTML-code</li>
+          <li>CSS code</li>
+          </ul>
+      <h3>6. Experience:</h3>
+        <p>I have no experience like a Developer, but I have big experience like a support specialist, so it's simple for me to work at high speed, multitasking and stress resistance. I'm really patient and calm, too. So I think it will be very useful for developer.</p>
+    <h3>7. Education:</h3>
+      <ul>
+        <li>
+          <strong>Belarusian State Economic University</strong><br>
+<em>2011-2016 years</em><br>
+Bachelor's degree<br>
+International Business/Trade/Commerce</li>
+       <li><strong>Belarusian State Agricultural Academy</strong><br>
+<em>2017-2019 years</em><br>
+Master's degree<br>
+Economics</li>
+      </ul>
+   <h3>8. English:</h3>
+    <p>I have Upper-Intermediate level of English. I learned English in school and in the university. Now I have lessons with a tutor. I have some practice in English at work, when English-speaking clients contact with technical support in writing or by phone or messenger.</p>
+  </body>
+</html>
